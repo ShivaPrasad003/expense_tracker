@@ -1,4 +1,4 @@
-# Author: Member 1
+# Author: Shiva Prasad
 import os
 from datetime import datetime, timedelta
 from jose import jwt, JWTError

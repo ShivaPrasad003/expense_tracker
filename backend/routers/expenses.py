@@ -1,4 +1,4 @@
-# Author: Member 2
+# Author: Midhun Sai
 from fastapi import APIRouter, Depends, Query, HTTPException
 from sqlalchemy.orm import Session
 from database import get_db

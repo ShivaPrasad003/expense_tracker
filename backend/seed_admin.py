@@ -1,4 +1,4 @@
-# Author: Member 1
+# Author: Shiva Prasad
 from database import SessionLocal
 from models import User
 from security import hash_password

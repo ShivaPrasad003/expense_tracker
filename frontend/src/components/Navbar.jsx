@@ -1,4 +1,4 @@
-// Author: Member 2
+// Author: Midhun Sai Morampudi
 import { Link, useNavigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 
