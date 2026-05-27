@@ -128,10 +128,12 @@ You can register new regular user accounts from the Register page.
 
 ## Workload Allocation
 
-| Member | Responsibilities |
-|--------|-----------------|
-| Shiva Prasad Devarakonda | Backend setup, database models, authentication, JWT security, admin routes, seed script, README |
-| Midhun Sai Morampudi | Expense routes, entire React frontend, UI design, charts, search and filter features |
+## Workload Allocation
+
+| Member | Files |
+|--------|-------|
+| Shiva Prasad Devarakonda | `backend/main.py`, `backend/database.py`, `backend/models.py`, `backend/schemas.py`, `backend/security.py`, `backend/seed_admin.py`, `backend/routers/auth.py`, `backend/routers/users.py`, `README.md` |
+| Midhun Sai Morampudi | `backend/routers/expenses.py`, `frontend/src/api/axios.js`, `frontend/src/context/AuthContext.jsx`, `frontend/src/App.jsx`, `frontend/src/components/Navbar.jsx`, `frontend/src/components/ProtectedRoute.jsx`, `frontend/src/pages/Login.jsx`, `frontend/src/pages/Register.jsx`, `frontend/src/pages/Dashboard.jsx`, `frontend/src/pages/AdminPanel.jsx` |
 
 ---
 
